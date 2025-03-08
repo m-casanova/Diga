@@ -1,4 +1,5 @@
 # Diga
+- Versione 1.103: aggiunta variante di /Q per accostamento _Qu_
 - Versione 1.101: sistemazione dei numeri e aggiunta di alcuni caratteri
 
 Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/Diga/).
