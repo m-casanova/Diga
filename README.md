@@ -9,6 +9,8 @@ Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io
 
 Il font **Diga** è derivato da _[Castoro](https://github.com/TiroTypeworks/Castoro)_ realizzato da Tiro Typeworks e distribuito con licenza OFL 1.1.
 
-**Diga** è una versione con alcune modifiche.
+**Diga** è una versione con alcune modifiche e aggiunte.
 
 ![image](images/diga_2.jpg)
+
+![image](images/diga_3.jpg)
